@@ -5,7 +5,7 @@ Paquete npm con la lista completa de todos los departamentos, municipios y ciuda
 ## Instalación
 
 ```bash
-npm install colombia-departamentos-municipios-ciudades-package
+npm install colombia-territorial-data
 ```
 
 ## Uso

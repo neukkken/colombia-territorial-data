@@ -1,0 +1,28 @@
+{
+  "name": "colombia-territorial-data",
+  "version": "1.0.0",
+  "description": "Lista completa de todos los departamentos, municipios y ciudades de Colombia",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "data/colombia.json"
+  ],
+  "keywords": [
+    "colombia",
+    "departamentos",
+    "municipios",
+    "ciudades",
+    "colombian",
+    "geografia",
+    "dane"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neukkken/colombia-territorial-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neukkken/colombia-territorial-data/issues"
+  },
+    "homepage": "https://github.com/neukkken/colombia-territorial-data#readme"
+}

@@ -5,13 +5,13 @@ Paquete npm con la lista completa de todos los departamentos, municipios y ciuda
 ## Instalación
 
 ```bash
-npm install colombia-territorial-data
+npm install colombia-territorial
 ```
 
 ## Uso
 
 ```javascript
-const colombia = require('colombia-territorial-data');
+const colombia = require('colombia-territorial');
 
 // Todos los departamentos
 console.log(colombia.departamentos);

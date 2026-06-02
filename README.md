@@ -11,7 +11,7 @@ npm install colombia-territorial-data
 ## Uso
 
 ```javascript
-const colombia = require('colombia-departamentos-municipios-ciudades-package');
+const colombia = require('colombia-territorial-data');
 
 // Todos los departamentos
 console.log(colombia.departamentos);

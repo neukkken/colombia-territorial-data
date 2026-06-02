@@ -1,6 +1,6 @@
 {
   "name": "colombia-territorial-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lista completa de todos los departamentos, municipios y ciudades de Colombia",
   "main": "index.js",
   "files": [

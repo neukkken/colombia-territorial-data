@@ -1,7 +1,7 @@
 {
   "name": "colombia-territorial",
-  "version": "1.0.2",
-  "description": "Lista completa de todos los departamentos, municipios y ciudades de Colombia",
+  "version": "1.1.0",
+  "description": "Lista completa de todos los departamentos, municipios y ciudades de Colombia con códigos DANE",
   "main": "index.js",
   "files": [
     "index.js",
